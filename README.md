@@ -1,7 +1,7 @@
-# IntroFrontendLaunchX
-Repositorio con las actividades de la introducción de la misión Frontend del curso Launch X de Innovacción Virtual
+# Prácticas de introducción a Frontend
+Este repositorio contiene las actividades de la primera semana de introducción de la misión Frontend del curso Launch X de Innovacción Virtual
 
-**Caso: Abogabot**
+## Caso: Abogabot
 Descripción: 
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
